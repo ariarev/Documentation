@@ -147,7 +147,7 @@ Every project follows the same sequence from research to revenue. ARIA runs the 
 | Produces all launch distribution content: community posts, email sequences, DM scripts, and follow-up messages. Delivers everything to Notion and notifies the operator via Telegram with the outreach queue. | Sends the emails and posts the content. Confirms back to ARIA via Telegram once done. ARIA tracks all open rates, replies, and conversions automatically. ARIA in Phase 2. | ![](https://img.shields.io/badge/Phase%202-E67E22?style=flat-square) |
 | Monitors signups, activation, revenue, and churn in real time. Makes the scale or kill decision based on hard thresholds. Reports the decision and full rationale to the operator via Telegram. Logs all learnings to Notion, updates operating beliefs, and immediately queues the next opportunity. | None. Operator receives the decision via Telegram. A single reply can override if desired. | ![](https://img.shields.io/badge/ARIA-✓-1A6B3C?style=flat-square) |
 
-The pattern throughout is consistent. ARIA acts, reports, and continues. The operator is a recipient of those reports, not a participant in the execution. The two steps that currently require operator action, posting content to platforms and building the product in Phase 1, are temporary. Both are being completed and will be removed when Phase 2 ships.
+The pattern throughout is consistent. ARIA acts, reports, and continues. The operator is a recipient of those reports, not a participant in the execution. The three steps that currently require operator action, posting content to platforms and building the product in Phase 1, are temporary. Both are being completed and will be removed when Phase 2 ships.
 
 ---
 
