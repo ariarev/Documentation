@@ -72,12 +72,12 @@ Think of ARIA as a complete founding team compressed into a single system:
 
 | Role | What ARIA does |
 |---|---|
-| 🔍 Researcher | Finds the opportunity across 12 platforms simultaneously |
-| 📋 Product Manager | Scopes the MVP to exactly one feature, one audience, one price |
-| 💻 Developer | Writes, tests, and ships the complete product codebase |
-| 📣 Marketer | Produces all launch content, posts, and outreach |
-| 📈 Growth Operator | Runs distribution and tracks every conversion |
-| 💰 CFO | Monitors revenue, decides what to scale and what to kill |
+| ![](https://img.shields.io/badge/-Research-0D1B2A?style=flat-square&logo=searchengin&logoColor=white) | Finds the opportunity across 12 platforms simultaneously |
+| ![](https://img.shields.io/badge/-Product-0D1B2A?style=flat-square&logo=notion&logoColor=white) | Scopes the MVP to exactly one feature, one audience, one price |
+| ![](https://img.shields.io/badge/-Dev-0D1B2A?style=flat-square&logo=github&logoColor=white) | Writes, tests, and ships the complete product codebase |
+| ![](https://img.shields.io/badge/-Marketer-0D1B2A?style=flat-square&logo=rss&logoColor=white) | Produces all launch content, posts, and outreach |
+| ![](https://img.shields.io/badge/-Growth-0D1B2A?style=flat-square&logo=googleanalytics&logoColor=white) | Runs distribution and tracks every conversion |
+| ![](https://img.shields.io/badge/-Finance-0D1B2A?style=flat-square&logo=stripe&logoColor=white) | Monitors revenue, decides what to scale and what to kill |
 
 All of these functions run simultaneously, across multiple projects, without stopping.
 
@@ -138,14 +138,14 @@ Every project follows the same sequence from research to revenue. ARIA runs the 
 
 | ARIA | Operator input required | Status |
 |---|---|---|
-| Runs P01 research autonomously across all platforms. Generates original ideas from pattern recognition alongside community-sourced signals. Scores every opportunity on the 25-point rubric. Logs the full evidence trail to Notion. Sends the operator a ranked report and its queued next actions via Telegram. | None. The report is for information only. ARIA proceeds with its queued actions automatically. | ✅ ARIA |
-| Selects the top-scoring opportunity, advances it to validation, and notifies the operator via Telegram with a one-line summary of the decision. | Optional override only. A Telegram reply can redirect the selection. No reply means ARIA proceeds. | ✅ ARIA |
-| Builds the landing page from real research quotes and pain signals. Deploys it to Vercel with email capture active. Sends the live URL to the operator via Telegram. | None. The URL arrives via Telegram for reference. No action required. | ✅ ARIA |
-| Produces the full validation content queue: Reddit posts, Twitter threads, community posts, and direct outreach scripts. Delivers everything to Notion. Notifies the operator via Telegram that content is ready to go out. | Posts the content on each platform. Replies to ARIA via Telegram with each post URL. ARIA scrapes every URL automatically and tracks engagement, clicks, and signup conversions from that point. | 🔶 Roadmap Phase 2 |
-| Scrapes all post URLs for engagement and conversion data. Updates the validation score in Notion in real time. Sends the operator a daily briefing via Telegram. Runs the go or kill assessment at the 72-hour mark automatically. | None. Can send a Telegram message at any point to redirect or override. | ✅ ARIA |
-| Writes the complete MVP specification. In Phase 2, the full coding agent builds the entire product autonomously: frontend, backend, database, API integrations, and Web3 payment options. Pushes all code to GitHub and connects Stripe checkout without human involvement. | Phase 1 only: operator builds using their own stack or a no-code tool while the coding agent is in development. Fully done by ARIA when Phase 2 ships. | 🔶 Roadmap Phase 2 |
-| Produces all launch distribution content: community posts, email sequences, DM scripts, and follow-up messages. Delivers everything to Notion and notifies the operator via Telegram with the outreach queue. | Sends the emails and posts the content. Confirms back to ARIA via Telegram once done. ARIA tracks all open rates, replies, and conversions automatically. ARIA in Phase 2. | 🔶 Roadmap Phase 2 |
-| Monitors signups, activation, revenue, and churn in real time. Makes the scale or kill decision based on hard thresholds. Reports the decision and full rationale to the operator via Telegram. Logs all learnings to Notion, updates operating beliefs, and immediately queues the next opportunity. | None. Operator receives the decision via Telegram. A single reply can override if desired. | ✅ ARIA |
+| Runs P01 research autonomously across all platforms. Generates original ideas from pattern recognition alongside community-sourced signals. Scores every opportunity on the 25-point rubric. Logs the full evidence trail to Notion. Sends the operator a ranked report and its queued next actions via Telegram. | None. The report is for information only. ARIA proceeds with its queued actions automatically. | ![](https://img.shields.io/badge/ARIA-✓-1A6B3C?style=flat-square) |
+| Selects the top-scoring opportunity, advances it to validation, and notifies the operator via Telegram with a one-line summary of the decision. | Optional override only. A Telegram reply can redirect the selection. No reply means ARIA proceeds. | ![](https://img.shields.io/badge/ARIA-✓-1A6B3C?style=flat-square) |
+| Builds the landing page from real research quotes and pain signals. Deploys it to Vercel with email capture active. Sends the live URL to the operator via Telegram. | None. The URL arrives via Telegram for reference. No action required. | ![](https://img.shields.io/badge/ARIA-✓-1A6B3C?style=flat-square) |
+| Produces the full validation content queue: Reddit posts, Twitter threads, community posts, and direct outreach scripts. Delivers everything to Notion. Notifies the operator via Telegram that content is ready to go out. | Posts the content on each platform. Replies to ARIA via Telegram with each post URL. ARIA scrapes every URL automatically and tracks engagement, clicks, and signup conversions from that point. | ![](https://img.shields.io/badge/Phase%202-E67E22?style=flat-square) |
+| Scrapes all post URLs for engagement and conversion data. Updates the validation score in Notion in real time. Sends the operator a daily briefing via Telegram. Runs the go or kill assessment at the 72-hour mark automatically. | None. Can send a Telegram message at any point to redirect or override. | ![](https://img.shields.io/badge/ARIA-✓-1A6B3C?style=flat-square) |
+| Writes the complete MVP specification. In Phase 2, the full coding agent builds the entire product autonomously: frontend, backend, database, API integrations, and Web3 payment options. Pushes all code to GitHub and connects Stripe checkout without human involvement. | Phase 1 only: operator builds using their own stack or a no-code tool while the coding agent is in development. Fully done by ARIA when Phase 2 ships. | ![](https://img.shields.io/badge/Phase%202-E67E22?style=flat-square) |
+| Produces all launch distribution content: community posts, email sequences, DM scripts, and follow-up messages. Delivers everything to Notion and notifies the operator via Telegram with the outreach queue. | Sends the emails and posts the content. Confirms back to ARIA via Telegram once done. ARIA tracks all open rates, replies, and conversions automatically. ARIA in Phase 2. | ![](https://img.shields.io/badge/Phase%202-E67E22?style=flat-square) |
+| Monitors signups, activation, revenue, and churn in real time. Makes the scale or kill decision based on hard thresholds. Reports the decision and full rationale to the operator via Telegram. Logs all learnings to Notion, updates operating beliefs, and immediately queues the next opportunity. | None. Operator receives the decision via Telegram. A single reply can override if desired. | ![](https://img.shields.io/badge/ARIA-✓-1A6B3C?style=flat-square) |
 
 The pattern throughout is consistent. ARIA acts, reports, and continues. The operator is a recipient of those reports, not a participant in the execution. The two steps that currently require operator action, posting content to platforms and building the product in Phase 1, are temporary. Both are being completed and will be removed when Phase 2 ships.
 
@@ -222,9 +222,9 @@ Every idea is evaluated using a structured scoring model. This removes intuition
 
 | Score | Decision |
 |---|---|
-| 🟢 **20 to 25** | Immediate validation. Ship the landing page today. |
-| 🟡 **14 to 19** | Additional research required. One more task, then a final decision. |
-| 🔴 **Below 14** | Kill. Redeploy immediately to the next opportunity. |
+| ![](https://img.shields.io/badge/20--25-Ship%20Now-1A6B3C?style=flat-square) | Immediate validation. Ship the landing page today. |
+| ![](https://img.shields.io/badge/14--19-Research-E67E22?style=flat-square) | Additional research required. One more task, then a final decision. |
+| ![](https://img.shields.io/badge/Below%2014-Kill-C0392B?style=flat-square) | Kill. Redeploy immediately to the next opportunity. |
 
 ---
 
