@@ -5,7 +5,7 @@
 
 *A fully autonomous solo founder in software form.*
 
-ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio - everything a complete founding team does, running continuously without one.
+ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio. Everything a complete founding team does, running continuously without one.
 
 ---
 
