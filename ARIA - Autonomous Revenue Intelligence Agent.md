@@ -81,7 +81,7 @@ Think of ARIA as a complete founding team compressed into a single system:
 
 All of these functions run simultaneously, across multiple projects, without stopping.
 
-The operator is not a manager of this process. They receive reports via Telegram, watch the system work, and step in for the narrow set of actions not yet automated in Phase 1 - primarily posting content to platforms and sending the URLs back to ARIA so it can track results. Everything else is handled.
+The operator is not a manager of this process. They receive reports via Telegram, watch the system work, and step in for the narrow set of actions not yet completed by ARIA in Phase 1, primarily posting content to platforms and sending the URLs back to ARIA so it can track results. Everything else is handled.
 
 As the roadmap progresses, even those steps are removed. The end state is an operator who provides strategic direction and makes occasional yes or no decisions. ARIA does the rest.
 
@@ -138,16 +138,16 @@ Every project follows the same sequence from research to revenue. ARIA runs the 
 
 | ARIA | Operator input required | Status |
 |---|---|---|
-| Runs P01 research autonomously across all platforms. Generates original ideas from pattern recognition alongside community-sourced signals. Scores every opportunity on the 25-point rubric. Logs the full evidence trail to Notion. Sends the operator a ranked report and its queued next actions via Telegram. | None. The report is for information only. ARIA proceeds with its queued actions automatically. | ✅ Automated |
-| Selects the top-scoring opportunity, advances it to validation, and notifies the operator via Telegram with a one-line summary of the decision. | Optional override only. A Telegram reply can redirect the selection. No reply means ARIA proceeds. | ✅ Automated |
-| Builds the landing page from real research quotes and pain signals. Deploys it to Vercel with email capture active. Sends the live URL to the operator via Telegram. | None. The URL arrives via Telegram for reference. No action required. | ✅ Automated |
+| Runs P01 research autonomously across all platforms. Generates original ideas from pattern recognition alongside community-sourced signals. Scores every opportunity on the 25-point rubric. Logs the full evidence trail to Notion. Sends the operator a ranked report and its queued next actions via Telegram. | None. The report is for information only. ARIA proceeds with its queued actions automatically. | ✅ ARIA |
+| Selects the top-scoring opportunity, advances it to validation, and notifies the operator via Telegram with a one-line summary of the decision. | Optional override only. A Telegram reply can redirect the selection. No reply means ARIA proceeds. | ✅ ARIA |
+| Builds the landing page from real research quotes and pain signals. Deploys it to Vercel with email capture active. Sends the live URL to the operator via Telegram. | None. The URL arrives via Telegram for reference. No action required. | ✅ ARIA |
 | Produces the full validation content queue: Reddit posts, Twitter threads, community posts, and direct outreach scripts. Delivers everything to Notion. Notifies the operator via Telegram that content is ready to go out. | Posts the content on each platform. Replies to ARIA via Telegram with each post URL. ARIA scrapes every URL automatically and tracks engagement, clicks, and signup conversions from that point. | 🔶 Roadmap Phase 2 |
-| Scrapes all post URLs for engagement and conversion data. Updates the validation score in Notion in real time. Sends the operator a daily briefing via Telegram. Runs the go or kill assessment at the 72-hour mark automatically. | None. Can send a Telegram message at any point to redirect or override. | ✅ Automated |
-| Writes the complete MVP specification. In Phase 2, the full coding agent builds the entire product autonomously: frontend, backend, database, API integrations, and Web3 payment options. Pushes all code to GitHub and connects Stripe checkout without human involvement. | Phase 1 only: operator builds using their own stack or a no-code tool while the coding agent is in development. Fully automated when Phase 2 ships. | 🔶 Roadmap Phase 2 |
-| Produces all launch distribution content: community posts, email sequences, DM scripts, and follow-up messages. Delivers everything to Notion and notifies the operator via Telegram with the outreach queue. | Sends the emails and posts the content. Confirms back to ARIA via Telegram once done. ARIA tracks all open rates, replies, and conversions automatically. Automated in Phase 2. | 🔶 Roadmap Phase 2 |
-| Monitors signups, activation, revenue, and churn in real time. Makes the scale or kill decision based on hard thresholds. Reports the decision and full rationale to the operator via Telegram. Logs all learnings to Notion, updates operating beliefs, and immediately queues the next opportunity. | None. Operator receives the decision via Telegram. A single reply can override if desired. | ✅ Automated |
+| Scrapes all post URLs for engagement and conversion data. Updates the validation score in Notion in real time. Sends the operator a daily briefing via Telegram. Runs the go or kill assessment at the 72-hour mark automatically. | None. Can send a Telegram message at any point to redirect or override. | ✅ ARIA |
+| Writes the complete MVP specification. In Phase 2, the full coding agent builds the entire product autonomously: frontend, backend, database, API integrations, and Web3 payment options. Pushes all code to GitHub and connects Stripe checkout without human involvement. | Phase 1 only: operator builds using their own stack or a no-code tool while the coding agent is in development. Fully done by ARIA when Phase 2 ships. | 🔶 Roadmap Phase 2 |
+| Produces all launch distribution content: community posts, email sequences, DM scripts, and follow-up messages. Delivers everything to Notion and notifies the operator via Telegram with the outreach queue. | Sends the emails and posts the content. Confirms back to ARIA via Telegram once done. ARIA tracks all open rates, replies, and conversions automatically. ARIA in Phase 2. | 🔶 Roadmap Phase 2 |
+| Monitors signups, activation, revenue, and churn in real time. Makes the scale or kill decision based on hard thresholds. Reports the decision and full rationale to the operator via Telegram. Logs all learnings to Notion, updates operating beliefs, and immediately queues the next opportunity. | None. Operator receives the decision via Telegram. A single reply can override if desired. | ✅ ARIA |
 
-The pattern throughout is consistent. ARIA acts, reports, and continues. The operator is a recipient of those reports, not a participant in the execution. The two steps that currently require operator action - posting content to platforms and building the product in Phase 1 - are temporary. Both are being automated and will be removed when Phase 2 ships.
+The pattern throughout is consistent. ARIA acts, reports, and continues. The operator is a recipient of those reports, not a participant in the execution. The two steps that currently require operator action, posting content to platforms and building the product in Phase 1, are temporary. Both are being completed and will be removed when Phase 2 ships.
 
 ---
 
@@ -286,8 +286,8 @@ Each subsequent phase adds a function that a complete founding team would cover,
 - **Full coding agent:** ARIA writes, tests, and deploys the complete product codebase autonomously
 - **Full-stack delivery:** frontend, backend, database, and API integrations shipped end-to-end without human involvement
 - **Web3 and crypto payment integrations** alongside traditional Stripe checkout
-- Automated posting to Reddit, X, and community platforms without operator involvement
-- Automated email outreach, follow-up sequences, and DM campaigns sent directly by ARIA
+- ARIA posting to Reddit, X, and community platforms without operator involvement
+- ARIA email outreach, follow-up sequences, and DM campaigns sent directly by ARIA
 - Expanded research coverage: LinkedIn, YouTube comments, Discord communities, and Product Hunt
 - A/B testing across landing page headlines, copy variants, and pricing options
 - Real-time revenue and signup dashboard visible to the operator at any time
@@ -303,7 +303,7 @@ Each subsequent phase adds a function that a complete founding team would cover,
 - ARIA proposes its own portfolio strategy; operator approves or redirects
 - Multi-operator support with role-based permissions and shared Notion workspaces
 
-> **The operator never loses control. Every automated capability has a manual override configurable in Notion. Full autonomy is the destination, not a constraint imposed on the operator. Those who want more involvement at any stage can configure that at any time.**
+> **The operator never loses control. Every ARIA capability has a manual override configurable in Notion. Full autonomy is the destination, not a constraint imposed on the operator. Those who want more involvement at any stage can configure that at any time.**
 
 ---
 
