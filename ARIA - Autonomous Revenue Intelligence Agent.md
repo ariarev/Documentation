@@ -3,7 +3,7 @@
 
 *A fully autonomous solo founder in software form.*
 
-ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio - everything a complete founding team does, running continuously without one.
+ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio. Everything a complete founding team does, running continuously without one.
 
 **2026**
 
@@ -63,13 +63,13 @@ The entire intelligence layer of ARIA lives inside **Notion**.
 
 Everything is stored and accessible:
 
-- API keys and credentials
+- Auth credentials
 - Active projects with stage and scoring
 - Research findings with source links
 - P01 scoring evidence
 - Distribution content
 - Operating beliefs
-- Learning logs
+- Learning logs & Memory
 - Methodology artifacts
 
 Examples stored in the brain:
@@ -78,7 +78,8 @@ Examples stored in the brain:
 - Twitter threads  
 - Landing page copy  
 - Outreach scripts  
-- Email sequences  
+- Email sequences
+- Project reviews & learnings  
 
 The operator can:
 
@@ -245,7 +246,7 @@ ARIA logs learnings and immediately begins the next opportunity.
 
 # PRODUCT ROADMAP
 
-## Phase 1 - Live
+## Phase 1
 
 - Autonomous idea generation
 - P01 research automation
@@ -260,7 +261,7 @@ Operator only posts content manually.
 
 ---
 
-## Phase 2 - In Development
+## Phase 2
 
 - Autonomous coding agent
 - Full-stack deployment
@@ -273,11 +274,11 @@ Operator only posts content manually.
 
 ---
 
-## Phase 3 - Planned
+## Phase 3
 
 - Autonomous accounting
 - Customer support automation
-- SEO automation
+- SEO & AEO automation
 - Affiliate management
 - Portfolio strategy planning
 - Multi-operator support
