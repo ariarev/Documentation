@@ -5,7 +5,7 @@
 
 ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio — everything a complete founding team does, running continuously without one.
 
-**Product Overview — 2026**
+**2026**
 
 ---
 
