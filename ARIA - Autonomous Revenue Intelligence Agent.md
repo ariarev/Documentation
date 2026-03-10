@@ -3,7 +3,7 @@
 
 *A fully autonomous solo founder in software form.*
 
-ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio — everything a complete founding team does, running continuously without one.
+ARIA generates ideas, validates markets, writes and ships code, manages distribution, handles operations, and grows a revenue portfolio - everything a complete founding team does, running continuously without one.
 
 **2026**
 
@@ -149,7 +149,7 @@ Every project follows the same pipeline.
 
 ---
 
-## P01 — Signal Detection (48 hours)
+## P01 - Signal Detection (48 hours)
 
 Ideas enter from two sources:
 
@@ -182,7 +182,7 @@ Each idea is scored on a **25-point rubric** across:
 
 ---
 
-## P02 — Validation (72 hours)
+## P02 - Validation (72 hours)
 
 ARIA:
 
@@ -198,7 +198,7 @@ Two failed tests = **kill the project**
 
 ---
 
-## Build — 7 days
+## Build - 7 days
 
 ARIA builds only what the validation promised.
 
@@ -212,7 +212,7 @@ Stripe is connected **before launch**.
 
 ---
 
-## Launch — 2 weeks
+## Launch - 2 weeks
 
 ARIA produces the complete distribution strategy:
 
@@ -245,7 +245,7 @@ ARIA logs learnings and immediately begins the next opportunity.
 
 # PRODUCT ROADMAP
 
-## Phase 1 — Live
+## Phase 1 - Live
 
 - Autonomous idea generation
 - P01 research automation
@@ -260,7 +260,7 @@ Operator only posts content manually.
 
 ---
 
-## Phase 2 — In Development
+## Phase 2 - In Development
 
 - Autonomous coding agent
 - Full-stack deployment
@@ -273,7 +273,7 @@ Operator only posts content manually.
 
 ---
 
-## Phase 3 — Planned
+## Phase 3 - Planned
 
 - Autonomous accounting
 - Customer support automation
@@ -371,7 +371,7 @@ Projects killed early save build time.
 
 ---
 
-**ARIA — Autonomous Revenue Intelligence Agent**  
+**ARIA - Autonomous Revenue Intelligence Agent**  
 2026
 
-*Confidential — Not for distribution*
+*Confidential - Not for distribution*
